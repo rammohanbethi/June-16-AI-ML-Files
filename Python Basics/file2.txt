@@ -1,0 +1,4 @@
+
+The value of x is40
+The value of y is40
+ addition of x and y is 80
